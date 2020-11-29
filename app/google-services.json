@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1023662262403",
+    "firebase_url": "https://chatapp-a1d97.firebaseio.com",
+    "project_id": "chatapp-a1d97",
+    "storage_bucket": "chatapp-a1d97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023662262403:android:48a577effa332e537533b6",
+        "android_client_info": {
+          "package_name": "com.suresh.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023662262403-0se99dv070775a3t5ogbb1j7bkpuanar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2VI2lEpoeodigmkRSx9pmavWCfYYYvo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023662262403-0se99dv070775a3t5ogbb1j7bkpuanar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
